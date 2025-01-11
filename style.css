@@ -416,6 +416,7 @@ table select:hover{
 .line{
     margin-left: 130px;
     margin-bottom: 30px;
+    opacity: 50%;
 }
 .icons{
     display: flex;
